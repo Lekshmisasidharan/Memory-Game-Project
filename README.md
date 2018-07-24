@@ -1,3 +1,7 @@
 # Memory-Game-Project
 
-Udacity Memory game project
+ click to play the game ...
+
+[Udacity Memory game project](https://lekshmisasidharan.github.io/Memory-Game-Project/)
+
+
